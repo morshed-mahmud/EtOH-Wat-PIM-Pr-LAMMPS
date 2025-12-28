@@ -1,0 +1,338 @@
+#Pair Coeffecients--------------------------------------------------------------------------------------------------
+pair_coeff 1 1   lj/charmm/coul/long  0.139104	2.599999   #OA0           
+pair_coeff 2 2   lj/charmm/coul/long  0.119232	2.949997   #NL0               
+pair_coeff 3 3   lj/charmm/coul/long  0.139104	2.599999   #HL@OA0            
+pair_coeff 4 4   lj/charmm/coul/long  0.059616	3.700000   #CS0             
+pair_coeff 5 5   lj/charmm/coul/long  0.100354	3.695002   #CA1               
+pair_coeff 6 6   lj/charmm/coul/long  0.041731	3.879998   #CA0                   
+pair_coeff 7 7   lj/charmm/coul/long  0.000994	6.400003   #CHO                    
+pair_coeff 8 8   lj/charmm/coul/long  0.091411	3.950004   #CH2               
+pair_coeff 9 9   lj/charmm/coul/long  0.194746	3.749998   #CH3               
+pair_coeff 10 10 lj/charmm/coul/long  0.059616	3.700000   #TL@CS0        
+pair_coeff 11 11 lj/charmm/coul/long  0.119232	3.550000   #CL0 
+              
+pair_coeff * * tersoff SiC_1994.tersoff  NULL NULL NULL NULL NULL NULL NULL NULL NULL NULL NULL C NULL NULL NULL NULL NULL NULL NULL NULL
+pair_coeff 13 13 lj/charmm/coul/long 0.066	3.5	 #C2
+pair_coeff 14 14 lj/charmm/coul/long 0.066      3.5      #C3
+pair_coeff 15 15 lj/charmm/coul/long 0.03       2.5 #h
+pair_coeff 16 16 lj/charmm/coul/long 0.03       2.5      #hc
+pair_coeff 17 17 lj/charmm/coul/long 0.0        0  #ho
+pair_coeff 18 18 lj/charmm/coul/long 0.0        0  #hspc
+pair_coeff 19 19 lj/charmm/coul/long 0.17	3.12 #oh
+pair_coeff 20 20 lj/charmm/coul/long 0.1554164124   3.1655200879 #ospc
+
+pair_coeff 1 2 lj/charmm/coul/long 0.128783428 2.7749985
+pair_coeff 1 3 lj/charmm/coul/long 0.139104000 2.5999990
+pair_coeff 1 4 lj/charmm/coul/long 0.090868249 3.1500000
+pair_coeff 1 5 lj/charmm/coul/long 0.118276334 3.1475005
+pair_coeff 1 6 lj/charmm/coul/long 0.076323787 3.2399985
+pair_coeff 1 7 lj/charmm/coul/long 0.011739245 4.5000010
+pair_coeff 1 8 lj/charmm/coul/long 0.112556669 3.2750015
+pair_coeff 1 9 lj/charmm/coul/long 0.164823057 3.1749985
+pair_coeff 1 10 lj/charmm/coul/long 0.090868249 3.1500000
+pair_coeff 1 11 lj/charmm/coul/long 0.128783428 3.0750000
+pair_coeff 1 12 lj/charmm/coul/long 0.097665497 3.0034995
+pair_coeff 1 13 lj/charmm/coul/long 0.095816825 3.0499995
+pair_coeff 1 14 lj/charmm/coul/long 0.095816825 3.0499995
+pair_coeff 1 15 lj/charmm/coul/long 0.064473241 2.5499995
+pair_coeff 1 16 lj/charmm/coul/long 0.064473241 2.5499995
+pair_coeff 1 17 lj/charmm/coul/long 0.000000000 1.2999995
+pair_coeff 1 18 lj/charmm/coul/long 0.000000000 1.2999995
+pair_coeff 1 19 lj/charmm/coul/long 0.153649739 2.8599995
+pair_coeff 1 20 lj/charmm/coul/long 0.147005847 2.8827595
+pair_coeff 2 3 lj/charmm/coul/long 0.128783428 2.7749985
+pair_coeff 2 4 lj/charmm/coul/long 0.084361562 3.3250000
+pair_coeff 2 5 lj/charmm/coul/long 0.109433268 3.3224995
+pair_coeff 2 6 lj/charmm/coul/long 0.070440073 3.4149975
+pair_coeff 2 7 lj/charmm/coul/long 0.010877847 4.6750000
+pair_coeff 2 8 lj/charmm/coul/long 0.103673204 3.4500005
+pair_coeff 2 9 lj/charmm/coul/long 0.152426385 3.4499975
+pair_coeff 2 10 lj/charmm/coul/long 0.084361562 3.3250000
+pair_coeff 2 11 lj/charmm/coul/long 0.119232000 3.2499985
+pair_coeff 2 12 lj/charmm/coul/long 0.090443875 3.1784985
+pair_coeff 2 13 lj/charmm/coul/long 0.088601159 3.2249985
+pair_coeff 2 14 lj/charmm/coul/long 0.088601159 3.2249985
+pair_coeff 2 15 lj/charmm/coul/long 0.059877505 2.7249985
+pair_coeff 2 16 lj/charmm/coul/long 0.059877505 2.7249985
+pair_coeff 2 17 lj/charmm/coul/long 0.000000000 1.4749985
+pair_coeff 2 18 lj/charmm/coul/long 0.000000000 1.4749985
+pair_coeff 2 19 lj/charmm/coul/long 0.142078292 3.0349985
+pair_coeff 2 20 lj/charmm/coul/long 0.135033417 3.0577585
+pair_coeff 3 4 lj/charmm/coul/long 0.090868249 3.1500000
+pair_coeff 3 5 lj/charmm/coul/long 0.118276334 3.1475005
+pair_coeff 3 6 lj/charmm/coul/long 0.076323787 3.2399985
+pair_coeff 3 7 lj/charmm/coul/long 0.011739245 4.5000010
+pair_coeff 3 8 lj/charmm/coul/long 0.112556669 3.2750015
+pair_coeff 3 9 lj/charmm/coul/long 0.164823057 3.1749985
+pair_coeff 3 10 lj/charmm/coul/long 0.090868249 3.1500000
+pair_coeff 3 11 lj/charmm/coul/long 0.128783428 3.0750000
+pair_coeff 3 12 lj/charmm/coul/long 0.097665497 3.0034995
+pair_coeff 3 13 lj/charmm/coul/long 0.095816825 3.0499995
+pair_coeff 3 14 lj/charmm/coul/long 0.095816825 3.0499995
+pair_coeff 3 15 lj/charmm/coul/long 0.064473241 2.5499995
+pair_coeff 3 16 lj/charmm/coul/long 0.064473241 2.5499995
+pair_coeff 3 17 lj/charmm/coul/long 0.000000000 1.2999995
+pair_coeff 3 18 lj/charmm/coul/long 0.000000000 1.2999995
+pair_coeff 3 19 lj/charmm/coul/long 0.153649739 2.8599995
+pair_coeff 3 20 lj/charmm/coul/long 0.147005847 2.8827595
+pair_coeff 4 5 lj/charmm/coul/long 0.077355248 3.697501
+pair_coeff 4 6 lj/charmm/coul/long 0.049729612 3.789999
+pair_coeff 4 7 lj/charmm/coul/long 0.007685276 5.050002
+pair_coeff 4 8 lj/charmm/coul/long 0.073953013 3.825002
+pair_coeff 4 9 lj/charmm/coul/long 0.107518484 3.724999
+pair_coeff 4 10 lj/charmm/coul/long 0.059616000 3.700000
+pair_coeff 4 11 lj/charmm/coul/long 0.084961705 3.625000
+pair_coeff 4 12 lj/charmm/coul/long 0.063799012 3.5535
+pair_coeff 4 13 lj/charmm/coul/long 0.062537000 3.600000
+pair_coeff 4 14 lj/charmm/coul/long 0.062537000 3.600000
+pair_coeff 4 15 lj/charmm/coul/long 0.042245819 3.100000
+pair_coeff 4 16 lj/charmm/coul/long 0.042245819 3.100000
+pair_coeff 4 17 lj/charmm/coul/long 0.000000000 1.850000
+pair_coeff 4 18 lj/charmm/coul/long 0.000000000 1.850000
+pair_coeff 4 19 lj/charmm/coul/long 0.100509596 3.410000
+pair_coeff 4 20 lj/charmm/coul/long 0.095586858 3.432760
+pair_coeff 5 6 lj/charmm/coul/long 0.064585186 3.787500
+pair_coeff 5 7 lj/charmm/coul/long 0.009968454 5.047503
+pair_coeff 5 8 lj/charmm/coul/long 0.095417650 3.822503
+pair_coeff 5 9 lj/charmm/coul/long 0.139629331 3.722500
+pair_coeff 5 10 lj/charmm/coul/long 0.077355248 3.697501
+pair_coeff 5 11 lj/charmm/coul/long 0.109129013 3.622501
+pair_coeff 5 12 lj/charmm/coul/long 0.082743430 3.551001
+pair_coeff 5 13 lj/charmm/coul/long 0.081167197 3.597501
+pair_coeff 5 14 lj/charmm/coul/long 0.081167197 3.597501
+pair_coeff 5 15 lj/charmm/coul/long 0.054924094 3.097501
+pair_coeff 5 16 lj/charmm/coul/long 0.054924094 3.097501
+pair_coeff 5 17 lj/charmm/coul/long 0.000000000 1.847501
+pair_coeff 5 18 lj/charmm/coul/long 0.000000000 1.847501
+pair_coeff 5 19 lj/charmm/coul/long 0.130769155 3.407501
+pair_coeff 5 20 lj/charmm/coul/long 0.124327040 3.430261
+pair_coeff 6 7 lj/charmm/coul/long 0.006437271 5.1390005
+pair_coeff 6 8 lj/charmm/coul/long 0.062025465 3.915001
+pair_coeff 6 9 lj/charmm/coul/long 0.089782348 3.814998
+pair_coeff 6 10 lj/charmm/coul/long 0.049729612 3.789999
+pair_coeff 6 11 lj/charmm/coul/long 0.070516223 3.714999
+pair_coeff 6 12 lj/charmm/coul/long 0.053631510 3.643499
+pair_coeff 6 13 lj/charmm/coul/long 0.052435227 3.689999
+pair_coeff 6 14 lj/charmm/coul/long 0.052435227 3.689999
+pair_coeff 6 15 lj/charmm/coul/long 0.035372723 3.189999
+pair_coeff 6 16 lj/charmm/coul/long 0.035372723 3.189999
+pair_coeff 6 17 lj/charmm/coul/long 0.000000000 1.939999
+pair_coeff 6 18 lj/charmm/coul/long 0.000000000 1.939999
+pair_coeff 6 19 lj/charmm/coul/long 0.085065137 3.499999
+pair_coeff 6 20 lj/charmm/coul/long 0.080866335 3.522759
+pair_coeff 7 8 lj/charmm/coul/long 0.009536041 5.175004
+pair_coeff 7 9 lj/charmm/coul/long 0.013899495 5.074999
+pair_coeff 7 10 lj/charmm/coul/long 0.007685276 5.050002
+pair_coeff 7 11 lj/charmm/coul/long 0.010877847 4.975002
+pair_coeff 7 12 lj/charmm/coul/long 0.008254389 4.903502
+pair_coeff 7 13 lj/charmm/coul/long 0.008084296 4.950002
+pair_coeff 7 14 lj/charmm/coul/long 0.008084296 4.950002
+pair_coeff 7 15 lj/charmm/coul/long 0.005449442 4.400002
+pair_coeff 7 16 lj/charmm/coul/long 0.005449442 4.400002
+pair_coeff 7 17 lj/charmm/coul/long 0.000000000 3.200001
+pair_coeff 7 18 lj/charmm/coul/long 0.000000000 3.200001
+pair_coeff 7 19 lj/charmm/coul/long 0.013001523 4.760002
+pair_coeff 7 20 lj/charmm/coul/long 0.011822194 4.782762
+pair_coeff 8 9 lj/charmm/coul/long 0.133616109 3.849999
+pair_coeff 8 10 lj/charmm/coul/long 0.073953013 3.825002
+pair_coeff 8 11 lj/charmm/coul/long 0.103673204 3.750002
+pair_coeff 8 12 lj/charmm/coul/long 0.078149960 3.678002
+pair_coeff 8 13 lj/charmm/coul/long 0.074041392 3.724502
+pair_coeff 8 14 lj/charmm/coul/long 0.074041392 3.724502
+pair_coeff 8 15 lj/charmm/coul/long 0.051405747 3.175002
+pair_coeff 8 16 lj/charmm/coul/long 0.051405747 3.175002
+pair_coeff 8 17 lj/charmm/coul/long 0.000000000 1.975002
+pair_coeff 8 18 lj/charmm/coul/long 0.000000000 1.975002
+pair_coeff 8 19 lj/charmm/coul/long 0.124243749 3.535002
+pair_coeff 8 20 lj/charmm/coul/long 0.118044705 3.557762
+pair_coeff 9 10 lj/charmm/coul/long 0.107518484 3.724999
+pair_coeff 9 11 lj/charmm/coul/long 0.152426385 3.649998
+pair_coeff 9 12 lj/charmm/coul/long 0.115421073 3.578498
+pair_coeff 9 13 lj/charmm/coul/long 0.112661596 3.624999
+pair_coeff 9 14 lj/charmm/coul/long 0.112661596 3.624999
+pair_coeff 9 15 lj/charmm/coul/long 0.078253464 3.074999
+pair_coeff 9 16 lj/charmm/coul/long 0.078253464 3.074999
+pair_coeff 9 17 lj/charmm/coul/long 0.000000000 1.875000
+pair_coeff 9 18 lj/charmm/coul/long 0.000000000 1.875000
+pair_coeff 9 19 lj/charmm/coul/long 0.182363160 3.434999
+pair_coeff 9 20 lj/charmm/coul/long 0.173489456 3.457759
+pair_coeff 10 11 lj/charmm/coul/long 0.084961705 3.625000
+pair_coeff 10 12 lj/charmm/coul/long 0.063799012 3.5535
+pair_coeff 10 13 lj/charmm/coul/long 0.062537000 3.600000
+pair_coeff 10 14 lj/charmm/coul/long 0.062537000 3.600000
+pair_coeff 10 15 lj/charmm/coul/long 0.042245819 3.100000
+pair_coeff 10 16 lj/charmm/coul/long 0.042245819 3.100000
+pair_coeff 10 17 lj/charmm/coul/long 0.000000000 1.850000
+pair_coeff 10 18 lj/charmm/coul/long 0.000000000 1.850000
+pair_coeff 10 19 lj/charmm/coul/long 0.100509596 3.410000
+pair_coeff 10 20 lj/charmm/coul/long 0.095586858 3.432760
+pair_coeff 11 12 lj/charmm/coul/long 0.090443875 3.4785
+pair_coeff 11 13 lj/charmm/coul/long 0.088601159 3.5249995
+pair_coeff 11 14 lj/charmm/coul/long 0.088601159 3.5249995
+pair_coeff 11 15 lj/charmm/coul/long 0.059877505 3.025
+pair_coeff 11 16 lj/charmm/coul/long 0.059877505 3.025
+pair_coeff 11 17 lj/charmm/coul/long 0.000000000 1.775
+pair_coeff 11 18 lj/charmm/coul/long 0.000000000 1.775
+pair_coeff 11 19 lj/charmm/coul/long 0.142078292 3.335
+pair_coeff 11 20 lj/charmm/coul/long 0.135033417 3.3577595
+pair_coeff 12 13 lj/charmm/coul/long 0.067420509 3.4535
+pair_coeff 12 14 lj/charmm/coul/long 0.067420509 3.4535
+pair_coeff 12 15 lj/charmm/coul/long 0.045240441 2.9535
+pair_coeff 12 16 lj/charmm/coul/long 0.045240441 2.9535
+pair_coeff 12 17 lj/charmm/coul/long 0.000000000 1.7035
+pair_coeff 12 18 lj/charmm/coul/long 0.000000000 1.7035
+pair_coeff 12 19 lj/charmm/coul/long 0.108155143 3.2635
+pair_coeff 12 20 lj/charmm/coul/long 0.102714090 3.286259
+pair_coeff 13 14 lj/charmm/coul/long 0.066000000 3.500000
+pair_coeff 13 15 lj/charmm/coul/long 0.044124548 3.000000
+pair_coeff 13 16 lj/charmm/coul/long 0.044124548 3.000000
+pair_coeff 13 17 lj/charmm/coul/long 0.000000000 1.750000
+pair_coeff 13 18 lj/charmm/coul/long 0.000000000 1.750000
+pair_coeff 13 19 lj/charmm/coul/long 0.106377792 3.310000
+pair_coeff 13 20 lj/charmm/coul/long 0.100985277 3.332759
+pair_coeff 14 15 lj/charmm/coul/long 0.044124548 3.000000
+pair_coeff 14 16 lj/charmm/coul/long 0.044124548 3.000000
+pair_coeff 14 17 lj/charmm/coul/long 0.000000000 1.750000
+pair_coeff 14 18 lj/charmm/coul/long 0.000000000 1.750000
+pair_coeff 14 19 lj/charmm/coul/long 0.106377792 3.310000
+pair_coeff 14 20 lj/charmm/coul/long 0.100985277 3.332759
+pair_coeff 15 16 lj/charmm/coul/long 0.030000000 2.500000
+pair_coeff 15 17 lj/charmm/coul/long 0.000000000 1.250000
+pair_coeff 15 18 lj/charmm/coul/long 0.000000000 1.250000
+pair_coeff 15 19 lj/charmm/coul/long 0.071917575 2.810000
+pair_coeff 15 20 lj/charmm/coul/long 0.068106812 2.832759
+pair_coeff 16 17 lj/charmm/coul/long 0.000000000 1.250000
+pair_coeff 16 18 lj/charmm/coul/long 0.000000000 1.250000
+pair_coeff 16 19 lj/charmm/coul/long 0.071917575 2.810000
+pair_coeff 16 20 lj/charmm/coul/long 0.068106812 2.832759
+pair_coeff 17 18 lj/charmm/coul/long 0.000000000 0.000000
+pair_coeff 17 19 lj/charmm/coul/long 0.000000000 1.560000
+pair_coeff 17 20 lj/charmm/coul/long 0.000000000 1.582760
+pair_coeff 18 19 lj/charmm/coul/long 0.000000000 1.560000
+pair_coeff 18 20 lj/charmm/coul/long 0.000000000 1.582760
+pair_coeff 19 20 lj/charmm/coul/long 0.163445649 3.142760
+
+
+
+
+#Bond Coeffecients--------------------------------------------------------------------------------------------------
+# bond_style       hybrid harmonic
+bond_coeff 1 harmonic  372.4	1.373   # CS0,OA0
+bond_coeff 2 harmonic  1014.5	1.138   #CL0,NL0
+bond_coeff 3 harmonic  372.4	1.373   #CS0,HL@OA0
+bond_coeff 4 harmonic  478.4	1.387   #CS0,CS0
+bond_coeff 5 harmonic  478.4	1.387   #CS0,CA1
+bond_coeff 6 harmonic  478.4	1.387   #CS0,CA0
+bond_coeff 7 harmonic  478.4	1.387   #CA0,CA1
+bond_coeff 8 harmonic  478.4	1.387   #CA0,CA0
+bond_coeff 9 harmonic  323.5	1.513   #CA0,CH0
+bond_coeff 10 harmonic 478.4    1.387   #TL@CS0,CA0
+bond_coeff 11 harmonic 404.1    1.44    #CA0,CL0
+bond_coeff 12 harmonic 303.1	1.535   #CH2,CH0
+bond_coeff 13 harmonic 303.1	1.535   # CH0,CH3
+bond_coeff 14 harmonic 478.4	1.387   #TL@CS0,TL@CS0
+bond_coeff 15 harmonic 469.0   1.42 
+bond_coeff 16 harmonic 268	   1.529 # 3  C2-c3
+bond_coeff 17 harmonic 340     1.09# 1  c2-h
+bond_coeff 18 harmonic 320	   1.41# 2 c2-oh
+bond_coeff 19 harmonic 340	   1.09  # 5  h-C3
+bond_coeff 20 harmonic 340	   1.09   # 6 c3-hc
+bond_coeff 21 harmonic 553	   0.945 # 4  OH-HO
+bond_coeff 22 harmonic 600	    1.00  #HT-OT
+
+
+
+
+#Angle Coeffecients--------------------------------------------------------------------------------------------------------
+# angle_style      hybrid harmonic
+angle_coeff 1 harmonic   63.31	119.95  # CS0,OA0,CS0 
+angle_coeff 2 harmonic   69.79	119.2   # OA0,CS0,CA1
+angle_coeff 3 harmonic   69.79	119.2   # CA0,CS0,OA0                     
+angle_coeff 4 harmonic   63.14	180.0   # CA0,CL0,NL0                    
+angle_coeff 5 harmonic   69.79	119.2	# HL@OA0,CS0,CS0                 
+angle_coeff 6 harmonic   69.79	119.2   # HL@OA0,CS0,CA1
+angle_coeff 7 harmonic   69.79	119.2   # OA0,CS0,CS0   
+angle_coeff 8 harmonic   67.18	119.97  # CS0,CS0,CA1   
+angle_coeff 9 harmonic   67.18	119.97  # CA0,CS0,CS0   
+angle_coeff 10 harmonic  67.18	119.9   # CA0,CA1,CS0   
+angle_coeff 11 harmonic  67.18	119.97  # CA0,CS0,CS0   
+angle_coeff 12 harmonic  67.18	119.97  # CS0,CA0,TL@CS0
+angle_coeff 13 harmonic  65.86	120.0   # CS0,CA0,CL0   
+angle_coeff 14 harmonic  67.18	119.97  #CA1,CA0,CA0   
+angle_coeff 15 harmonic  63.84	120.63  # CA1,CA0,CH0   
+angle_coeff 16 harmonic  63.84	120.63  # CA0,CA0,CH0   
+angle_coeff 17 harmonic  63.66	112.26  # CA0,CH0,CA0   
+angle_coeff 18 harmonic  63.25	112.09  # CH2,CH0,CA0   
+angle_coeff 19 harmonic  63.25	112.09  # CA0,CH0,CH3   
+angle_coeff 20 harmonic  67.18	119.97  # TL@CS0,TL@CS0,CA0
+angle_coeff 21 harmonic  63.21	110.63  # CH0,CH2,CH0   
+angle_coeff 22 harmonic  63.21	110.63  # CH2,CH0,CH2   
+angle_coeff 23 harmonic  63.21	110.63  # CH2,CH0,CH3   
+angle_coeff 24 harmonic  63.21	110.63  # CH3,CH0,CH3   
+angle_coeff 25 harmonic  65.86	120.0   # TL@CS0,CA0,CL0
+angle_coeff 26 harmonic 63.0     120.0 
+angle_coeff 27 harmonic 37.5	110.7  # c2-c3-h #coh-ch-hc
+angle_coeff 28 harmonic 37.5	110.7  # c2-c3-hc #coh-ch-hc
+angle_coeff 29 harmonic 55      108.5  # c2-oh-ho #ch-oh-ho
+angle_coeff 30 harmonic 37.5	110.7  #c3-c2-h #coh-ch-h
+angle_coeff 31 harmonic 50   	109.5  #c3-c2-oh #coh-ch-oh
+angle_coeff 32 harmonic 33	    107.8  # h-c2-h #hc-ch-hc
+angle_coeff 33 harmonic 35      109.5  #h-c2-oh #hc-coh-oh
+angle_coeff 34 harmonic 33	    107.8  #h-c3-h  #hc-coh-hc
+angle_coeff 35 harmonic 33	    107.8  #h-c3-hc #h-coh-hc
+angle_coeff 36 harmonic 75	    109.47   #HT-OT-HT
+
+
+
+
+#Dihedral style & Co_eff-------------------------------------------------------------------
+# dihedral_style   hybrid fourier
+dihedral_coeff 1 harmonic   3.625 -1 2                               # OA0,CS0,CS0,OA0
+dihedral_coeff 2 harmonic   3.625 -1 2                               # OAO CSO CSO CA1 
+dihedral_coeff 3 harmonic   3.625 -1 2                               # OAO CSO CSO CAO
+dihedral_coeff 4 harmonic   3.625 -1 2                               # OAO CSO CA1 CAO
+dihedral_coeff 5 harmonic   3.625 -1 2                             	# OAO CSO CAO CSO
+dihedral_coeff 6 harmonic   3.625 -1 2                               # OAO CSO CAO TL@CSO
+dihedral_coeff 7 harmonic   3.625 -1 2                               # OAO CSO CAO CLO
+dihedral_coeff 8 harmonic   3.625 -1 2                               # HL@OAO CSO CSO  HL@OAO 
+dihedral_coeff 9 harmonic   3.625 -1 2                               # HL@OAO CSO CSO  CA1
+dihedral_coeff 10 harmonic   3.625 -1 2                           #  HL@OAO CSO CA1 CAO
+dihedral_coeff 11 harmonic   0.9 -1 2                               #CSO OAO CSO CSO
+dihedral_coeff 12 harmonic   0.9 -1 2                               #CSO OAO CSO CA1
+dihedral_coeff 13 harmonic   0.9 -1 2                           # CSO OAO CSO CAO
+dihedral_coeff 14 harmonic   3.625 -1 2                           # CSO CSO CA1 CAO
+dihedral_coeff 15 harmonic   3.625 -1 2                           # CSO CSO CAO CSO
+dihedral_coeff 16 harmonic   3.625 -1 2                           # CSO CSO CAO TL@CSO
+dihedral_coeff 17 harmonic   3.625 -1 2                           # CSO CSO CAO CLO
+dihedral_coeff 18 harmonic   3.625 -1 2                               #CSO CA1 CAO CAO
+dihedral_coeff 19 harmonic   3.625 -1 2                               #CSO CA1 CAO CHO
+dihedral_coeff 20 harmonic   3.625 -1 2                           # CSO CAO TL@CSO  TL@CSO 
+dihedral_coeff 21 harmonic   0 -1 2                           # CSO CAO CLO NLO
+dihedral_coeff 22 harmonic   3.625 -1 2                               #CA1 CSO CSO CA1
+dihedral_coeff 23 harmonic   3.625 -1 2                               #CAO CAO CAO CA1
+dihedral_coeff 24 harmonic   3.625 -1 2                           # CA1 CAO CAO CHO
+dihedral_coeff 25 harmonic   0 1 2                           # CA1 CAO CHO CAO
+dihedral_coeff 26 harmonic   0 1 2                           # CA1 CAO CHO CH2
+dihedral_coeff 27 harmonic   0 1 2                           # CA1 CAO CHO CH3
+dihedral_coeff 28 harmonic   3.625 -1 2                           # CAO CSO CSO CAO
+dihedral_coeff 29 harmonic   0 1 2                           # CAO CAO CHO CAO
+dihedral_coeff 30 harmonic   0 1 2                           # CAO CAO CHO  CH2 
+dihedral_coeff 31 harmonic   0 1 2                           #  CAO CAO CHO CH3
+dihedral_coeff 32 harmonic   0.155 1 3                           # CAO CHO CH2 CHO
+dihedral_coeff 33 harmonic   3.625 -1 2                           # CAO TL@CSO Tl@CSO CAO
+dihedral_coeff 34 harmonic   3.625 -1 2                           #  CHO CAO CAO CHO
+dihedral_coeff 35 harmonic   0.155 1 3                           # CH2 CHO CH2 CHO
+dihedral_coeff 36 harmonic   0.155 1 3                           # CH3 CHO CH2 CHO
+dihedral_coeff 37 harmonic   0 -1 2                           # TL@CSO CAO CLO NLO
+dihedral_coeff 38 harmonic   3.625 -1 2                           # CLO CAO TL#CSO Tl@CSO
+dihedral_coeff 39 opls      -0.356 -0.174 0.492 0  #c3-c2-oh-ho
+dihedral_coeff 40 opls        0      0    0.318 0  #h-c2-c3-h
+dihedral_coeff 41 opls        0      0    0.318 0  #h-c2-c3-hc
+dihedral_coeff 42 opls        0	     0    0.450 0  #  h-c2-oh-ho
+dihedral_coeff 43 opls        0	     0    0.468 0  #oh-c2-c3-h
+dihedral_coeff 44 opls        0	     0    0.468 0	#oh-c2-c3-hc
+
+
+
+
+#improper_style   none
