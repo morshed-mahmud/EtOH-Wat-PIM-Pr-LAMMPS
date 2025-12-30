@@ -21,7 +21,7 @@ angle_style     hybrid harmonic
 dihedral_style  hybrid harmonic opls                              
 improper_style  none                                                                                     
 kspace_style    pppm 1.0e-4                                                 
-special_bonds   amber 
+special_bonds    lj/coul 0.0 0.0 0.5
 
 # Read/analyze init geometry
 read_data      ETH75.data
